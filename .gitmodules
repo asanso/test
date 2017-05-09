@@ -1,3 +1,3 @@
 [submodule "wiki"]
 	path = wiki
-	url = ../test.wiki
+	url = javascript:alert('XSS');
